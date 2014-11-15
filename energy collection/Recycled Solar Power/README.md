@@ -1,5 +1,5 @@
 Recycled Solar Power
-===================================
+====================
 
 This is an "*instructables*" document on creating solar panels from reclaimed photovoltaic cells.
 
