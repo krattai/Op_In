@@ -1,0 +1,9 @@
+The OpEn project has been merged with this project as a subtree.
+
+Adding the subtree was done with the following information ref:
+https://help.github.com/articles/about-git-subtree-merges/
+
+NB:  The reference for adding remote (referenced as step 1) appears incorrect.  Usage to add was the following:
+git remote add -f OpEn https://github.com/krattai/OpEn.git
+
+
