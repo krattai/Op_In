@@ -1,4 +1,4 @@
-# Op_In
+# Op_In : Open Information
 A place for Open Information sharing, focused on public liberty
 
 The OpEn project was added as a subtree.  For information on the process, feel free to read the associated note:
