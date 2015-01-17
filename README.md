@@ -28,12 +28,4 @@ The owner of this project, nor any of those participating with and contributing 
 # Copyright notifications
 This project is generally under public domain.  The goal being to increase the scope, range, and depth of common knowledge in a provable form.
 
-As public domain may not be considered a legal description in some jurisdictions, in regions which do not recognize public domain, then the general copyright license as reference is the Creative Commons Attribution 4.0 International license:
-http://creativecommons.org/licenses/by/4.0/
-
-Except:
-Attribution itself is a restriction and therefore, where applicable, attribution or other author or publisher related attributions should not be considered a requirement.  In the event that a less restrictive license can be found and applied to this project, it will be done so, and so all authors should consider that the license may change accordingly, and without notification.
-
-This is the most liberty oriented license available and is fully compliant with other licenses, including the integration of said content into other creative works with more restrictive licenses, except for attribution, which does not require any other compensation.
-
-Other content in this project may be licensed otherwise and should be directly noted within the content, although generally it is not recommended to submit content for the project for which you are not the copyright owner of, and of which there is a highly restrictive license attached.
+Other content in this project may be licensed otherwise and should be directly noted within the content, although generally it is not recommended to submit content for the project for which you are not the copyright owner of, and of which there is a highly restrictive license attached.  Such material and content is subject to being removed from the Op_In project.
