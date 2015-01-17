@@ -1,0 +1,23 @@
+This document contains reference material for potential, future investigation and implementation.
+
+https://www.youtube.com/playlist?list=PLw28_n7AgcmCdOUL6mXd3uk-BlqgcmmiC
+
+https://www.youtube.com/watch?v=qMTUfNoJPws
+
+http://www.instructables.com/id/MIDGE-gasifier-campstove/
+
+https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
+
+http://www.instructables.com/id/How-to-use-a-breadboard/?ALLSTEPS
+
+http://fritzing.org/download/
+
+http://www.instructables.com/id/Cola-Can-Battery/?ALLSTEPS
+
+http://en.wikipedia.org/wiki/Earth_battery
+
+http://opensourceecology.org/
+
+http://en.wikipedia.org/wiki/Open_system_%28systems_theory%29
+
+http://chemwiki.ucdavis.edu/Physical_Chemistry/Thermodynamics/A_System_And_Its_Surroundings
