@@ -1,5 +1,6 @@
 # Op_In : Open Information
 A place for Open Information sharing, focused on public liberty.
+See bottom of page for important disclaimer.
 
 One of, the reasons for this project is inspired by those who have thought about what would happen if there was some sort of extinction event, that humans managed to survive in some non-fatal density, all all moderm amenities ceased to exist.  How could humans rebuild?
 
@@ -18,3 +19,8 @@ If you wish to help out, please feel free to fork this project and also to make 
 
 If you have a fork of the project and would like to get updates, and are only familiar with the web interface, follow the instruction on the following page and your fork will merge updates from the master:
 http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/
+
+# Disclaimer
+Nothing in life is guaranteed.  The information contained in this project is ultimately, just information to be read, considered, and thought about.  At best, it may provide valuable resource material, at worst, it could have seriously negative consequences.  Yes, even potentially death.
+
+The owner of this project, nor any of those participating with and contributing to this project, shall be held liable for any negative consequences to pursuing the information or ideas contained in this project.  You are entirely responsible for what you do and the results of those actions.
