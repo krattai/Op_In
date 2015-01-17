@@ -1,5 +1,11 @@
 # Op_In : Open Information
-A place for Open Information sharing, focused on public liberty
+A place for Open Information sharing, focused on public liberty.
+
+One of, the reasons for this project is inspired by those who have thought about what would happen if there was some sort of extinction event, that humans managed to survive in some non-fatal density, all all moderm amenities ceased to exist.  How could humans rebuild?
+
+Another reason is simply for the philisophical, or maybe even practical, solutions for how, at least certain populations, may enable themselves to be self sufficient individually, and in groups.
+
+The information provided for and in this project is intended to allow everyone to potentially envision and also create positive changes within their lives, and to share that knowledge with others.
 
 The OpEn project was added as a subtree.  For information on the process, feel free to read the associated note:
 https://github.com/krattai/Op_In/blob/master/Open_subtree_note.txt
