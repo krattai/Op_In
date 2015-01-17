@@ -26,8 +26,13 @@ Nothing in life is guaranteed.  The information contained in this project is ult
 The owner of this project, nor any of those participating with and contributing to this project, shall be held liable for any negative consequences to pursuing the information or ideas contained in this project.  You are entirely responsible for what you do and the results of those actions.
 
 # Copyright notifications
-This project is generally under public domain.  As public domain may not be considered a legal description in some jurisdictions, in regions which do not recognize public domain, then the general copyright license as reference is the Creative Commons Attribution 4.0 International license:
+This project is generally under public domain.  The goal being to increase the scope, range, and depth of common knowledge in a provable form.
+
+As public domain may not be considered a legal description in some jurisdictions, in regions which do not recognize public domain, then the general copyright license as reference is the Creative Commons Attribution 4.0 International license:
 http://creativecommons.org/licenses/by/4.0/
+
+Except:
+Attribution itself is a restriction and therefore, where applicable, attribution or other author or publisher related attributions should not be considered a requirement.
 
 This is the most liberty oriented license available and is fully compliant with other licenses, including the integration of said content into other creative works with more restrictive licenses, except for attribution, which does not require any other compensation.
 
