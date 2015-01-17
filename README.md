@@ -2,14 +2,14 @@
 A place for Open Information sharing, focused on public liberty.
 See bottom of page for important disclaimer.
 
-One of, the reasons for this project is inspired by those who have thought about what would happen if there was some sort of extinction event, that humans managed to survive in some non-fatal density, all all moderm amenities ceased to exist.  How could humans rebuild?
+One of, the reasons for this project is inspired by those who have thought about what would happen if there was some sort of extinction event, that humans managed to survive in some non-fatal density, and all modern amenities ceased to exist.  How could humans rebuild?
 
 Another reason is simply for the philisophical, or maybe even practical, solutions for how, at least certain populations, may enable themselves to be self sufficient individually, and in groups.
 
 The information provided for and in this project is intended to allow everyone to potentially envision and also create positive changes within their lives, and to share that knowledge with others.
 
 The OpEn project was added as a subtree.  For information on the process, feel free to read the associated note:
-https://github.com/krattai/Op_In/blob/master/Open_subtree_note.txt
+https://github.com/krattai/Op_In/blob/master/OpEn_subtree_note.txt
 
 Please note that any changes to the OpEn subtree in this project may conflict with changes in the OpEn project.  If you wish to make changes or help with the OpEn content, please use the OpEn project repository:
 https://github.com/krattai/OpEn
@@ -28,6 +28,6 @@ The owner of this project, nor any of those participating with and contributing 
 # Copyright notifications
 This project is generally under public domain.  The goal being to increase the scope, range, and depth of common knowledge in a provable form.
 
-See further license information in the license.txt and creative_commons_by_4.0 documents.
+See further license information in the https://github.com/krattai/Op_In/blob/master/license_notes.txt and https://github.com/krattai/Op_In/blob/master/creative_commons_by_4.0 documents.
 
 Other content in this project may be licensed otherwise and should be directly noted within the content, although generally it is not recommended to submit content for the project for which you are not the copyright owner of, and of which there is a highly restrictive license attached.  Such material and content is subject to being removed from the Op_In project.
