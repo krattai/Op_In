@@ -28,4 +28,6 @@ The owner of this project, nor any of those participating with and contributing 
 # Copyright notifications
 This project is generally under public domain.  The goal being to increase the scope, range, and depth of common knowledge in a provable form.
 
+See further license information in the license.txt and creative_commons_by_4.0 documents.
+
 Other content in this project may be licensed otherwise and should be directly noted within the content, although generally it is not recommended to submit content for the project for which you are not the copyright owner of, and of which there is a highly restrictive license attached.  Such material and content is subject to being removed from the Op_In project.
