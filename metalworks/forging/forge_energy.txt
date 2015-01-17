@@ -1,0 +1,14 @@
+Of course, a forge is nothing, without heat.  Obviously, what ever energy source you use, you need to be able to get the forge temperature up high enough to perform the work you want to perform.  Whether that be forging or smelting.
+
+For possible energy sources, you can check out the Open Energy project, OpEn:
+https://github.com/krattai/OpEn
+
+If your energy source of choice is wood, creating charcoal, allowing for hotter burn and consistent temperatures, would be desirable.  Rather than purchasing coal or charcoal, you can produce your own.
+
+Here are references for creating your own charcoal:
+http://www.stormthecastle.com/blacksmithing/how-to-make-coal-for-your-forge.htm
+http://www.wikihow.com/Make-Charcoal
+
+Of course, it's important to note that charcoal appears to be (could be considred) an intermediary form of gasification.  So if you are going to produce charcoal for your forge / furnace, you might want to consider using the syngas of a full gasifier, which then allows for you to harvest and use the biproducts of gasification for other purposes.
+
+If you might consider gasification, a benefit of gasification is you can pretty much use any organic material and some inorganic materials successfully in a gasifier, which can both reduce your waste footprint and also safely reduce otherwise cause toxins if burnt or has an excessive or non-existent decomposition time frame.
