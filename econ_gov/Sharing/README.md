@@ -9,3 +9,6 @@ When setting up a sharing based economic system, it should be kept at the forefr
 
 Sharing introduction example:
 https://www.youtube.com/watch?v=U31BKGEZvBs
+
+Tool lending library:
+https://www.youtube.com/watch?v=kSyulV00xuM
