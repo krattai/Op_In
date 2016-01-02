@@ -1,3 +1,6 @@
+Food
+====
+
 This food directory may be appropriate for all things food, although things may be broken out into their components.
 
 There are:
