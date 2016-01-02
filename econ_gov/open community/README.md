@@ -1,5 +1,5 @@
-Local Currency
-================
+Open Community
+==============
 
 Discussion:
 Economics, society, government, civilization, etc are all tied closely together.  Content in the econ_gov path are likely to have similar conent and ideas within them, not least of reasons being that certain ideas are simply what we already believe and / or use, and others are commonly believed to be good ideas that could benefit an economic or governmental system.
