@@ -3,9 +3,9 @@ Food
 
 This food directory may be appropriate for all things food, although things may be broken out into their components.
 
-There are:
-Food production
-Food preperation
+There are:<br>
+Food production<br>
+Food preperation<br>
 and possibly food preservation and others
 
 Here is a great set of videos from Peak Moment on utilizing uneven property:<br>
