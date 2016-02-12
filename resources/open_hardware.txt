@@ -1,0 +1,1 @@
+This document will contain references to open hardware related projects that aren't currently included in other areas of the OpIn project.
