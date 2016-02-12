@@ -16,6 +16,9 @@ http://opensourceecology.org/
 https://www.thingiverse.com/
 http://p2pfoundation.net/VOICED
 http://wikispeed.org/
+https://www.openhardware.io/
+http://www.opencircuits.com/Main_Page
 
-Expanded list of open source hardware projects:
+Expanded lists of open source hardware projects:
 https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
+http://www.dmoz.org/Computers/Hardware/Open_Source/
