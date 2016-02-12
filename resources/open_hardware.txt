@@ -1,1 +1,21 @@
 This document will contain references to open hardware related projects that aren't currently included in other areas of the OpIn project.
+
+Please note that not all links are public or non-commercial projects, therefore there may be methods to drive sales for the respective sites.  If the sites are found to be solely commercial, they will be pruned.
+
+https://confluence.cornell.edu/display/AGUACLARA/Home
+https://www.elektor.com/
+http://www.instructables.com/
+https://localmotors.com/
+http://littlebits.cc/
+https://en.wikipedia.org/wiki/One_Laptop_per_Child
+http://opencores.org/
+https://www.opendesign.com/
+http://www.ohanda.org/
+http://openstructures.net/
+http://opensourceecology.org/
+https://www.thingiverse.com/
+http://p2pfoundation.net/VOICED
+http://wikispeed.org/
+
+Expanded list of open source hardware projects:
+https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
