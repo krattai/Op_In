@@ -9,7 +9,7 @@ The potential for discrepencies in valuation is really a moot point, in many reg
 
 The above description may be a mis-representation and should be corrected as necessary.
 
-The Minuto currency was developed in Germany and as such, the web site is in German.  And english translation via Google exists here:
+The Minuto currency was developed in Germany and as such, the web site is in German.  An english translation via Google exists here:
 https://translate.google.ca/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fminutocash.org%2F
 
 The original, German site is:
