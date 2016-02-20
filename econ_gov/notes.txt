@@ -49,3 +49,6 @@ https://www.youtube.com/watch?v=F818QTn6_f8
 
 Choose bitcoin wallet:
 https://bitcoin.org/en/choose-your-wallet
+
+Scrip:
+https://en.wikipedia.org/wiki/Scrip
