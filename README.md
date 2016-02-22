@@ -1,6 +1,7 @@
 # Op_In : Open Information
 A place for Open Information sharing, focused on public liberty.
-See bottom of page for important disclaimer.
+See bottom of page for important disclaimer.  This project has a wiki which needs to be updated to reflect the content in this project on the github site, located ere:<br>
+https://github.com/krattai/Op_In/wiki
 
 One of, the reasons for this project is inspired by those who have thought about what would happen if there was some sort of extinction event, that humans managed to survive in some non-fatal density, and all modern amenities ceased to exist.  How could humans rebuild?
 
