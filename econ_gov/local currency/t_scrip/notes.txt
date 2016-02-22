@@ -6,3 +6,8 @@ Some negative aspects of current money called to be:
 + the ability to create money is an exclusive purvey of those subjectively entitled
 
 A desirable alternative would be one that would reduce or remove those negative aspects and could also provide additional benefits.
+
+Things that might be beneficial are:
++ ability for anyone to create money
++ ability to create money at the time of transaction
++ removing the inflationary aspects of money
