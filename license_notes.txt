@@ -1,7 +1,7 @@
 Attribution itself is a restriction and therefore, where applicable, attribution or other author or publisher related attributions should not be considered a requirement.
 
-Creative Commons Attribution 4.0 license is the most liberty oriented license available and is fully compliant with other licenses, including the integration of said content into other creative works with more restrictive licenses, except for attribution, which does not require any other compensation.
+Creative Commons Attribution 4.0-by license is one of the most liberty oriented licenses available and is fully compliant with other licenses, including the integration of said content into other creative works with more restrictive licenses, except for attribution, which does not require any other compensation.
 
-In the event that a less restrictive license can be found and applied to this project, it will be done so, and so all authors should consider that the license may change accordingly, and without notification.
+In the event that a less restrictive license can be found and applied to this project, it will be done so, and so all authors should consider that the license may change accordingly, and without notification, to one with greater freedoms.
 
 Any author who does not agree to a change in license has the right to do, or request, removal of their original works, including any changes by other subsequent authors on that document.  An original author has authroity over any document and subsequent contribution is considered under authority of the original document author.
