@@ -9,7 +9,7 @@ http://embracingopen.blogspot.ca/
 The goal is ultimately intended to have this information readily available to anyone using a peer to peer, open source technology created for this intention, called AEBL:<br>
 https://github.com/krattai/AEBL
 
-The AEBL technology has an underlying, p2p, open source broadcast technology being developed specifically to carry the information and enable sharing, called noo-ebs (911 - Emergency Broadcast System):<b>
+The AEBL technology has an underlying, p2p, open source broadcast technology being developed specifically to carry the information and enable sharing, called noo-ebs (911 - Emergency Broadcast System):<br>
 https://github.com/krattai/noo-ebs
 
 One of, the reasons for this project is inspired by those who have thought about what would happen if there was some sort of extinction event, that humans managed to survive in some non-fatal density, and all modern amenities ceased to exist.  How could humans rebuild?
