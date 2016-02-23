@@ -52,3 +52,6 @@ https://bitcoin.org/en/choose-your-wallet
 
 Scrip:
 https://en.wikipedia.org/wiki/Scrip
+
+Visualizing a Plenitude Economy
+https://www.youtube.com/watch?v=HR-YrD_KB0M
