@@ -22,3 +22,9 @@ opensource ecology
 global village construction set
 opensourcehardware
 sparkfun electronics
+
+Addiional items for review:
+http://www.instructables.com/id/Gduino-No-Programmer-Required-for-5Programs-Multip/?ALLSTEPS
+http://www.instructables.com/id/Mud-Room-Coat-Rack-and-Bench/?ALLSTEPS
+http://www.instructables.com/id/Arduino-101-Fundamentals/?ALLSTEPS
+http://www.instructables.com/id/Easy-French-Knit-Earmuff-Headband/?ALLSTEPS
