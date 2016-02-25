@@ -1,0 +1,4 @@
+Examples and references for transaction software
+
+noo-ebs (911 Emergency Broadcast System) project:
+https://github.com/krattai/noo-ebs
