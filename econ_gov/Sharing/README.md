@@ -13,6 +13,3 @@ https://www.youtube.com/watch?v=U31BKGEZvBs
 Tool lending library:
 https://www.youtube.com/watch?v=kSyulV00xuM
 
-How to Start a Tool Library in Your Community:
-https://www.youtube.com/watch?v=la42sskJH1s
-
