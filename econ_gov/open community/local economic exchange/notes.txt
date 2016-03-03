@@ -1,0 +1,23 @@
+The following initial notes are some thoughts on how the local economic exchange might role out:
+
+I was thinking about the "system" and did some searching, it looks like the system can be called "Local Economic Exchange" which could then be called "LEE" as could the currency, as a clone or modification of the Minuto, depending on what people want.
+
+Step one might be setting up a workers cooperative, which should be a non-profit.
+
+Step two would be an introduction of the Minuto / LEE.
+
+Step three would be building out a peer to peer communication system for conducting trade negotiation, possibly as a pre-cursor to the actual transaction which might be done with the paper scrip, to keep it "off the books".
+
+Step four might be setting up a peer to peer economic development organization (the cooperative equivalent of a bank).  This may not be desirable, I don't know.  But what I do know is this functional organization would allow for local investment into local businesses / cooperatives in the form of crowd sourcing, peer to peer lending, etc.
+
+Step five would be the introduction of additional cooperatives as desired within the economic system, such as bio-fuel cooperative.  If step four is done, then it can be used to bootstrap these complimentary cooperatives.
+
+That's just some thoughts.  Obviously only step one and / or step two would be absolutely necessary to start things up.  Everything else would be up to the community.
+
+~~~~~~~~~~~
+
+cooperatives could be manufacturing, construction, communications, energy, tool share, land share, food share, ride share, 
+
+~~~~~~~~~~~
+
+Also, looking at this from a systems perspective, each component of the LEE should be replacable.  While it should allow for multiple features in a complimentary role and function, such as multiple currencies, a single currency could be in play as a different currency could replace it.
