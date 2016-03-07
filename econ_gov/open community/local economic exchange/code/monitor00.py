@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Copyright (C) 2015 Uvea I. S., Kevin Rattai
+# Copyright (C) 2016 Uvea I. S., Kevin Rattai
 # This software is based on an unknown license, but is available
 # with no license statement from here:
 # http://stackoverflow.com/questions/31775450/publish-and-subscribe-with-paho-mqtt-client
