@@ -1,0 +1,28 @@
+crowdfunding info
+https://www.crowdfunding.com/
+
+Much of the links come from wikipedia's crowdfunding comparison:
+https://en.wikipedia.org/wiki/Comparison_of_crowdfunding_services
+
+white label crowdfunding toolkit:
+http://www.investedin.com/
+invested.in
+
+Used by:
+https://albertaboostr.ca/
+
+https://en.wikipedia.org/wiki/RocketHub
+https://www.quirky.com/
+https://en.wikipedia.org/wiki/FundRazr
+https://en.wikipedia.org/wiki/Weeve
+https://en.wikipedia.org/wiki/Experiment_%28website%29
+https://en.wikipedia.org/wiki/DonorsChoose
+https://en.wikipedia.org/wiki/Optimize_Capital_Markets
+https://en.wikipedia.org/wiki/Seedups
+https://en.wikipedia.org/wiki/Bountysource
+https://en.wikipedia.org/wiki/Patreon
+https://en.wikipedia.org/wiki/Givology
+https://en.wikipedia.org/wiki/Kopernik_%28organization%29
+https://en.wikipedia.org/wiki/Kickstarter
+https://en.wikipedia.org/wiki/GoFundMe
+https://en.wikipedia.org/wiki/Indiegogo
