@@ -1,0 +1,24 @@
+p2p notes
+
+GNUnet and related information
+https://gnunet.org/
+https://gnunet.org/installation
+https://gnunet.org/videoghm2013
+https://github.com/vsaw/gnunet-mqtt
+https://gnunet.org/subversion
+https://gnunet.org/downloads
+https://gnunet.org/links
+http://about.psyc.eu/GNUnet
+http://about.psyc.eu/PSYC
+https://en.wikipedia.org/wiki/Babel_(protocol)
+https://gnunet.org/31c3videos
+https://net2o.de/
+Jacob Appelbaum - You broke the Internet. We're making ourselves a GNU one.
+https://www.youtube.com/watch?v=DzbeETRAjN4
+https://www.gnu.org/software/guix/
+https://gnunet.org/installing-gnunet-0101-ubuntu-1404
+https://gnunet.org/generic-installation-instructions
+https://en.wikipedia.org/wiki/GNUnet
+https://github.com/GNUnet/gnunet
+http://battlemesh.org/BattleMeshV8/GNUnet-slides
+https://github.com/vsaw/gnunet-mqtt
