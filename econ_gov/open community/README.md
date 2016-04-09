@@ -7,3 +7,6 @@ Economics, society, government, civilization, etc are all tied closely together.
 The basis for this specific directory is to examine and potentially bring together many of the ideas, design new systems, and potentially provide a framework for others who would like to create their own local, open community or tribe which would be not just sustainable, but would thrive.
 
 At this time, this directory will also include sub directories of communities currently being developed or are already established, and allow for comments, discussions, and anecdotes of how to, as well as what worked and what didn't, which should be taken in context as to the demographic, geographic, and cultural aspects.
+
+Practical Post-Scarcity
+https://www.youtube.com/watch?v=4Tx-YjzVgtM
