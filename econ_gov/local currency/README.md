@@ -15,3 +15,6 @@ http://community-currency.info/
 
 Part 1 Legal Basics for Complementary Currencies
 https://www.youtube.com/watch?v=E0rMzGMXnwo
+
+Part 2 Legal Basics for Complementary Currencies
+https://www.youtube.com/watch?v=XoFSuhloiUY
