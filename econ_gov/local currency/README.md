@@ -12,3 +12,6 @@ http://www.complementarycurrency.org/
 
 Community Currency web site:
 http://community-currency.info/
+
+Part 1 Legal Basics for Complementary Currencies
+https://www.youtube.com/watch?v=E0rMzGMXnwo
