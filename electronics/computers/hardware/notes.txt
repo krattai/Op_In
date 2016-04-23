@@ -1,0 +1,9 @@
+The following open source oriented projects or associations have not been vetted for impartiality nor objective value.  They may, or may not be, directed by corporate interests.  While this could lead to bias opinion pieces within the documents on these sites, that may not take away from possible knowledge gained by reviewing these sites.
+
+Vetted sites should be marked accordingly.
+
+Open Source Hardware Association
+http://www.oshwa.org/
+
+Open Hardware Repository
+http://www.ohwr.org/
