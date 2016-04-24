@@ -8,4 +8,6 @@ https://en.wikipedia.org/wiki/Interior_gateway_protocol
 https://en.wikipedia.org/wiki/Open_Shortest_Path_First
 https://en.wikipedia.org/wiki/Enhanced_Interior_Gateway_Routing_Protocol
 https://networklessons.com/bgp/introduction-to-bgp/
+https://en.wikipedia.org/wiki/Tier_1_network
+https://en.wikipedia.org/wiki/Tier_2_network
 
