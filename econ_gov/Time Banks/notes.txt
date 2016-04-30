@@ -2,3 +2,6 @@ This document contains information about time banks which may not have been revi
 
 hOur World time bank
 https://www.hourworld.org/
+
+Community Currency time bank tookit
+http://community-currency.info/en/toolkits/tb-toolkit/what-it-takes-to-start-a-timebank/
