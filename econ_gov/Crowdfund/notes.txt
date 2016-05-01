@@ -29,3 +29,6 @@ https://en.wikipedia.org/wiki/Indiegogo
 
 Lending club is a possible crowdfund / alt lending organization
 https://www.lendingclub.com/
+
+Wikipedia explanation of Peer to Peer lending
+https://en.wikipedia.org/wiki/Peer-to-peer_lending
