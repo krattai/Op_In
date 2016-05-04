@@ -8,3 +8,6 @@ Garden Sharing is probably the most simple form of land sharing and for many, it
 A Garden Share is most often a verbal agreement between two parties and there is no need to consider anything other than a property owner having a garden.  It is that simple.  Other forms of land sharing is more complex as it may require the agreements of more than two people, it may require considering land useage, and there could be other local or regional laws which need to be taken into account.
 
 This directory will be used to examine as many areas of land sharing as possible.
+
+The following is one resource for land share information:
+http://www.landshare.org/
