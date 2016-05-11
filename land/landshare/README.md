@@ -11,3 +11,5 @@ This directory will be used to examine as many areas of land sharing as possible
 
 The following is one resource for land share information:
 http://www.landshare.org/
+
+http://landsharecanada.com/
