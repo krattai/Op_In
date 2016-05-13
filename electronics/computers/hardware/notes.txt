@@ -7,3 +7,6 @@ http://www.oshwa.org/
 
 Open Hardware Repository
 http://www.ohwr.org/
+
+Fan digital sign POV
+http://www.instructables.com/id/How-to-Make-a-Fan-POV-Display/?ALLSTEPS
