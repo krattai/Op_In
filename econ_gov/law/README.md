@@ -7,3 +7,6 @@ Laws differ from nation to nation and even region and community to each others. 
 
 The SELC
 http://www.theselc.org/
+
+Community Currencies Law
+www.communitycurrencieslaw.org
