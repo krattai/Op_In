@@ -5,3 +5,6 @@ http://www.instructables.com/id/DIY-spray-paint-1/?ALLSTEPS
 
 For lack of textiles folder, this is link of Open Wear:
 http://openwear.org/
+
+WikiHouse is an open source building system:
+http://www.wikihouse.cc/
