@@ -13,5 +13,8 @@ https://en.wikipedia.org/wiki/Local_currency
 WIR bank on Wikipedia
 https://en.wikipedia.org/wiki/WIR_Bank
 
-Home page for Time Bank org.
+Home page for Time Bank org
 http://timebanks.org/
+
+Wikipedia Scrip info
+https://en.wikipedia.org/wiki/Scrip
