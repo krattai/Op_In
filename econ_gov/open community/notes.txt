@@ -36,3 +36,6 @@ Like all things, nothing is perfect, and we can prevent abuse.  Certainly we can
 
 Transition Network
 https://www.transitionnetwork.org/
+
+Open Government resources at opensource.com
+https://opensource.com/resources/open-government
