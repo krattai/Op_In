@@ -27,3 +27,6 @@ http://www.socialtrade.nl/?lang=en
 
 Wikipedia Company issued scrip
 https://en.wikipedia.org/wiki/Company_scrip
+
+OS Currency on github
+https://github.com/oscurrency/oscurrency
