@@ -22,3 +22,6 @@ https://en.wikipedia.org/wiki/GNUnet
 https://github.com/GNUnet/gnunet
 http://battlemesh.org/BattleMeshV8/GNUnet-slides
 https://github.com/vsaw/gnunet-mqtt
+
+Open Bizaar
+https://openbazaar.org/
