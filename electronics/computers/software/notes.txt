@@ -6,3 +6,6 @@ https://www.yoctoproject.org/
 
 Github - open source software repository
 http://github.com
+
+Open Source Mobile Banking software
+http://www.cyclos.org/products/
