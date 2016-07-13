@@ -20,3 +20,6 @@ https://en.wikipedia.org/wiki/Time-based_currency
 
 Article on Time Banks
 http://www.shareable.net/blog/just-in-time
+
+Time Banks management software
+https://github.com/m3talsmith/time-bank
