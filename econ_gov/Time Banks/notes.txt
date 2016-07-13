@@ -23,3 +23,6 @@ http://www.shareable.net/blog/just-in-time
 
 Time Banks management software
 https://github.com/m3talsmith/time-bank
+
+Timebanks.org FAQ
+http://timebanks.org/faq/
