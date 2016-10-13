@@ -1,7 +1,11 @@
 Follow My Vote: Stake-Weighted Voting
 ========
 
-This is the official repository for Follow My Vote's Stake-Weighted Voting application.
+This is _a clone of_ the official repository for Follow My Vote's Stake-Weighted Voting application.
+https://followmyvote.com/
+https://github.com/FollowMyVote/StakeWeightedVoting
+
+Video of tool in use: https://www.youtube.com/watch?v=R53pDz4vp1s
 
 Linux and Mac are both fully supported. Windows support is pending.
 
