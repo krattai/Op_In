@@ -74,4 +74,10 @@ http://www.instructables.com/id/How-to-Make-Colour-Changing-Paint/?ALLSTEPS
 https://www.seeds.ca/
 http://www.tecmint.com/best-gui-git-clients-git-repository-viewers-for-linux/
 http://www.instructables.com/id/Dead-Edge-End-Table/?ALLSTEPS
+http://www.instructables.com/id/Arduino-Sun-Tracker-Turret/?ALLSTEPS
+http://www.instructables.com/id/Smartphone-Controlled-Cat-Laser/?ALLSTEPS
+http://www.instructables.com/id/Grilled-Bacon-Wrapped-Tater-Tots/?ALLSTEPS
+http://www.instructables.com/id/DIY-Squeeze-Extra-Capacity-From-Old-NiCd-Batteries/?ALLSTEPS
+www.techthings.org/configuration-lsyncd-service-multiserver-architecture/
+http://www.instructables.com/id/HomeKit-HomeBridge-Siri-Enabled-Arduino-ESP8266-No/?ALLSTEPS
 
