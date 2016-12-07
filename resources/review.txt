@@ -80,4 +80,8 @@ http://www.instructables.com/id/Grilled-Bacon-Wrapped-Tater-Tots/?ALLSTEPS
 http://www.instructables.com/id/DIY-Squeeze-Extra-Capacity-From-Old-NiCd-Batteries/?ALLSTEPS
 www.techthings.org/configuration-lsyncd-service-multiserver-architecture/
 http://www.instructables.com/id/HomeKit-HomeBridge-Siri-Enabled-Arduino-ESP8266-No/?ALLSTEPS
+http://www.instructables.com/id/Articulated-Bat-and-Demon-Wings/?ALLSTEPS
+http://www.gauravkgupta.com/10-linux-super-hacks-linux-administrator/
+http://www.instructables.com/id/How-to-Make-a-Table-Saw-Anti-KickBack-for-DIY-Tabl/?ALLSTEPS
+http://www.instructables.com/id/DIY-Remote-Controller-for-Hexdrake/?ALLSTEPS
 
