@@ -1,0 +1,12 @@
+While the general public uses the DNS provided by their internet service provider, which is usually obtained from ICANN, there are alternative DNS providers which can expand your internet content experience.
+
+What is DNS?
+https://en.wikipedia.org/wiki/Domain_Name_System
+
+What is ICANN?
+https://en.wikipedia.org/wiki/ICANN
+
+What is IANA?
+https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority
+
+
