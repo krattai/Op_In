@@ -22,3 +22,28 @@ http://www.opencircuits.com/Main_Page
 Expanded lists of open source hardware projects:
 https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
 http://www.dmoz.org/Computers/Hardware/Open_Source/
+
+~~~~~~~~~~~~~~~~~~~~~
+
+Raspberry-pi-GPIO extension board for pi B (26 pin) layout:
+PINS Left:
+CE1 => GPIO8
+CE0 => GPIO 7
+SCLK => GPIO 11
+MISO => GPIO 9
+MOSI => GPIO 10
+RXD => GPIO 15
+TXD => GPIO 14
+SCL => GPIO 3 (rev 2)
+SDA => GPIO 2 (rev 2)
+
+PINS Right:
+P0 => GPIO 17
+P1 => GPIO 18
+P2 => GPIO 27 (rev 2)
+P3 => GPIO 22
+P4 => GPIO 23
+P5 => GPIO 24
+P6 => GPIO 25
+P7 => GPIO 4
+GND
