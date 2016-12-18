@@ -3,3 +3,6 @@ http://www.instructables.com/id/5-Simple-Battery-Hacks/?ALLSTEPS
 
 POV fan digital sign
 http://www.instructables.com/id/How-to-Make-a-Fan-POV-Display/?ALLSTEPS
+
+Software tool for prototyping:
+http://fritzing.org
