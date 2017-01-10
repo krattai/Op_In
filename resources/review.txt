@@ -128,4 +128,8 @@ https://github.com/wadobo/timebank
 http://www.instructables.com/id/Make-a-LED-Lamp-for-Indoor-Photography-Under-2/?ALLSTEPS
 https://www.smallfarmsmanitoba.com
 http://www.instructables.com/id/From-Blink-to-Blynk-an-IoT-Jorney-on-the-Wings-of-/?ALLSTEPS
+http://www.instructables.com/id/Industrial-Isolation-Transformer-From-Trash/?ALLSTEPS
+https://www.linuxfoundation.org/about/community-giving/open-source-events
+http://www.instructables.com/id/Optimal-Burger/?ALLSTEPS
+http://reactionwheel.net/2015/01/80s-vc.html
 
