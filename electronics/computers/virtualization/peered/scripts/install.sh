@@ -17,6 +17,10 @@
 #
 # Because root required, this may not automate:
 #
+# apt-add-repository may not be installed, so need to
+# sudo apt-get update
+# sudo apt-get install -y software-properties-common
+#
 # sudo apt-add-repository -y ppa:cloud-installer/stable
 # sudo apt-get update
 # sudo apt-get install -y openstack
