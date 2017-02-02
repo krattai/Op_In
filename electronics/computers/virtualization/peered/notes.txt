@@ -1,0 +1,5 @@
+20170201
+- started off with a base installation of 32 bit ubuntu 14.04.3 LTS in virtualbox
+- 192MB RAM with 2GB drive
+- no updates
+- ssh, samba and mdns installed as well as gogoc, which has now been shut down
