@@ -3,3 +3,4 @@
 - 192MB RAM with 2GB drive
 - no updates
 - ssh, samba and mdns installed as well as gogoc, which has now been shut down
+- may want to run bind, although for sure should use OpenNIC, and if bind used, mirror opennic
