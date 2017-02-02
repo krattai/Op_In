@@ -4,3 +4,4 @@
 - no updates
 - ssh, samba and mdns installed as well as gogoc, which has now been shut down
 - may want to run bind, although for sure should use OpenNIC, and if bind used, mirror opennic
+- should run IPv6 natively and possibly only, while operating 6to4 until unnecessary
