@@ -12,5 +12,15 @@
 # The goal is to eventually move to, or at least add as a
 # supplemental, a peer to peer message queue system
 #
+# The following example is for installing openstack as a MAAS, from ubuntu:
+# http://ronaldbradford.com/blog/installing-ubuntu-openstack-2015-06-01/
+#
+# Because root required, this may not automate:
+#
+# sudo apt-add-repository -y ppa:cloud-installer/stable
+# sudo apt-get update
+# sudo apt-get install -y openstack
+# sudo openstack-install --version
+# sudo openstack-install
 
 sudo apt-get -y install mosquitto python-mosquitto mosquitto-clients dnsutils
