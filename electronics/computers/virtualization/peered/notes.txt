@@ -7,3 +7,7 @@
 - should run IPv6 natively and possibly only, while operating 6to4 until unnecessary
 - according to current info and attempt in virtualbox, kvm not possible:
 -- egrep -c '(vmx|svm)' /proc/cpuinfo returns 0
+
+20170202
+- openstack should still work without kvm, just simply won't run virtualized
+- can run virtualized using different virtual machine configuration, such as virtualbox
