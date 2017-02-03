@@ -14,3 +14,9 @@
 
 20170203
 - seem to be getting somewhere with devstack
+
+- when using devstack example from:
+  http://docs.openstack.org/developer/devstack/
+  or
+  http://therandomsecurityguy.com/openstack-20-minutes/
+  create user, of course, with permissions, then be sure to log into stack user and run everything from there
