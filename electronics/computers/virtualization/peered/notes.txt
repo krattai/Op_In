@@ -11,3 +11,6 @@
 20170202
 - openstack should still work without kvm, just simply won't run virtualized
 - can run virtualized using different virtual machine configuration, such as virtualbox
+
+20170203
+- seem to be getting somewhere with devstack
