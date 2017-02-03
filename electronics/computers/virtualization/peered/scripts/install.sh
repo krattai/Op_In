@@ -15,16 +15,17 @@
 # The following example is for installing openstack as a MAAS, from ubuntu:
 # http://ronaldbradford.com/blog/installing-ubuntu-openstack-2015-06-01/
 #
-# Because root required, this may not automate:
+# Run as sudo
 #
 # apt-add-repository may not be installed, so need to
-# sudo apt-get update
-# sudo apt-get install -y software-properties-common
-#
-# sudo apt-add-repository -y ppa:cloud-installer/stable
-# sudo apt-get update
-# sudo apt-get install -y openstack
-# sudo openstack-install --version
-# sudo openstack-install
 
-sudo apt-get -y install mosquitto python-mosquitto mosquitto-clients dnsutils
+apt-get update
+apt-get install -y software-properties-common
+
+apt-add-repository -y ppa:cloud-installer/stable
+apt-get update
+apt-get install -y openstack
+openstack-install --version
+openstack-install
+
+# sudo apt-get -y install mosquitto python-mosquitto mosquitto-clients dnsutils
