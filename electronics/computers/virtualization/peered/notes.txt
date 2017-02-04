@@ -20,3 +20,6 @@
   or
   http://therandomsecurityguy.com/openstack-20-minutes/
   create user, of course, with permissions, then be sure to log into stack user and run everything from there
+
+20170204
+- devstack install appears to work better with 2GB of RAM on a VM
