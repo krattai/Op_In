@@ -1,1 +1,3 @@
-This document contains resources and references as relevant to this sub project
+This document contains resources and references as relevant to this sub project.
+
+https://en.wikipedia.org/wiki/Cloud_computing
