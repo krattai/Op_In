@@ -26,3 +26,4 @@
 
 20170205
 - Ubuntu 14.04 MAAS server installed and functional out of box on 1.6GB RAM vbox
+- - Needed to set /etc/network/interfaces for eth1 (second NIC) auto/dhcp
