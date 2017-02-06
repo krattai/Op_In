@@ -23,3 +23,6 @@
 
 20170204
 - devstack install appears to work better with 2GB of RAM on a VM
+
+20170205
+- Ubuntu 14.04 MAAS server installed and functional out of box on 1.6GB RAM vbox
