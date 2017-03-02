@@ -1,6 +1,8 @@
 Networks
 ========
 
+The reason for this sub project is to help people understand networks as well as develop skills and tools revolving around enabling people to set up functional and resiliant networks, including alternative methods and protocols, such as alt-DNS.
+
 Networks have 7 layers, from hardware physical layer up to many different software layers.
 
 Because networking is so vast, it deserves it's own directory.  There will likely be some crossover of information, but hopefully there will not be too much duplication.
