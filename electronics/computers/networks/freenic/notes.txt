@@ -1,1 +1,3 @@
 This file is for notes and references regarding freenic sub project
+
+20170307 - working on developing a proof of concept autonomous, public network
