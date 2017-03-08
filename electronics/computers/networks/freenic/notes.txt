@@ -1,3 +1,5 @@
 This file is for notes and references regarding freenic sub project
 
 20170307 - working on developing a proof of concept autonomous, public network
+
+20170308 - found dn42 which is likely a good framework, or basis for next steps : https://dn42.net/Home
