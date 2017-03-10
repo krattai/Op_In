@@ -3,3 +3,6 @@ This file is for notes and references regarding freenic sub project
 20170307 - working on developing a proof of concept autonomous, public network
 
 20170308 - found dn42 which is likely a good framework, or basis for next steps : https://dn42.net/Home
+
+20170309 - a ptp vpn needs to be created between peers.  openvpn static is good solution:
+           https://openvpn.net/index.php/open-source/documentation/howto.html
