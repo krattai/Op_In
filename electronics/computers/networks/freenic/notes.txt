@@ -6,3 +6,5 @@ This file is for notes and references regarding freenic sub project
 
 20170309 - a ptp vpn needs to be created between peers.  openvpn static is good solution:
            https://openvpn.net/index.php/open-source/documentation/howto.html
+
+20170311 - Check openvpn to utilzie IPv6 and possibly function as 6to4
