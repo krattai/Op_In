@@ -8,3 +8,7 @@ This file is for notes and references regarding freenic sub project
            https://openvpn.net/index.php/open-source/documentation/howto.html
 
 20170311 - Check openvpn to utilzie IPv6 and possibly function as 6to4
+
+20170313 - VPN appears to be working as defined (for later discussion)
+           Need to determine BGP routing (likely using DN42 config, if already created)
+           BGP by way of Bird, OpenBGPd, or Quagga
