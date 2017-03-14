@@ -12,3 +12,5 @@ This file is for notes and references regarding freenic sub project
 20170313 - VPN appears to be working as defined (for later discussion)
            Need to determine BGP routing (likely using DN42 config, if already created)
            BGP by way of Bird, OpenBGPd, or Quagga
+
+20170314 - freenic consists of DNS / ILANA plus segregated 0.0.0.0/0
