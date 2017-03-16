@@ -14,3 +14,5 @@ This file is for notes and references regarding freenic sub project
            BGP by way of Bird, OpenBGPd, or Quagga
 
 20170314 - freenic consists of DNS / ILANA plus segregated 0.0.0.0/0
+
+20170315 - using virtual machines for routing can likely boost performance and security
