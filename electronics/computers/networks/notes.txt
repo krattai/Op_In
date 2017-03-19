@@ -1,4 +1,7 @@
-This file will contain un-reviewed network information for this project
+Notes on networking:
+dns tools - dig, nslookup
+
+This file will also contain un-reviewed network information for this project
 
 https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29
 https://en.wikipedia.org/wiki/Routing_Information_Protocol
