@@ -1,0 +1,7 @@
+While VMWare and VirtualBox or other commercial virtualization tools are used, it may be desirable to convert hardware or existing VMs to the versatile and open source KVM/QEMU
+https://help.ubuntu.com/community/KVM/FAQ
+
+Quite often, virtualbox is the VM tool of choice, so the following are documents for converting vdi to KVM:
+http://www.randomhacks.co.uk/how-to-convert-virtualbox-vdi-to-kvm-qcow2/
+http://joseph.zikusooka.com/?p=981
+http://cheznick.net/main/content/converting-a-virtual-machine-from-virtualbox-to-kvm
