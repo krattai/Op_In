@@ -12,3 +12,14 @@ http://github.com
 
 Open Source Mobile Banking software
 http://www.cyclos.org/products/
+
+Linux software build / make:
+https://en.wikipedia.org/wiki/Make_(software)
+https://www.gnu.org/software/make/
+https://linux.die.net/man/1/make
+http://www.tldp.org/HOWTO/Software-Building-HOWTO-3.html
+http://www.tutorialspoint.com/unix_commands/make.htm
+http://linoxide.com/how-tos/linux-make-command-examples/
+https://luv.asn.au/overheads/compile.html
+
+https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel
