@@ -1,5 +1,6 @@
 Notes on networking:
 dns tools - dig, nslookup
+get refereces for bgp, vpn, and sdn
 
 This file will also contain un-reviewed network information for this project
 
