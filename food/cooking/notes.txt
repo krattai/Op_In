@@ -1,0 +1,6 @@
+The cooking information would not include harvesting nor cleaning / rendering.
+
+It would include:
++ preperation
++ cooking
++ preserving
