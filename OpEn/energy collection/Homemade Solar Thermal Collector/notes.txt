@@ -1,0 +1,14 @@
+General notes and thoughts on solar thermal collectors:
+
++ Three methods of thermal transfer are conduction (along solids), convection (within liquids or gases), and radiation through anything that will allow radiation to pass.
++ Generally speaking, insulated solids, liquids, and gases are storage mediums.  Radiation is more stictly a transfer method only.
+
+https://en.wikipedia.org/wiki/Heat_transfer
+
+Solar heat collectors are specifically thermal radiation collectors.  As such, there are general principles regarding the overall affectiveness of your solar collector:
++ your windows are solar conduits and all surfaces inside the window are radiation collectors, depending on reflective properties.  Placing a solar collector in front of windows can not produce _more_ heat collection.
++ surface area and radiation absorption are the key to thermal collection and transfer.  The larger the surface area facing the sun and the least reflective the collection material, the greater the potential heat collection.
++ collecting the heat is only a small part of thermal collection.  Storage and transporting of that heat is the only part that will effectively utilize that heat.
++ the faster heat can be transfer to a good heat conductor with appropriate insulation, the more heat can be stored for future use, just like a battery for electricity.
+
+
