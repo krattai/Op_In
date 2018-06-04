@@ -2,6 +2,8 @@ Foraging is used losely as many things listed aren't foraged, but are simply sou
 
 This document contains known geographical locations where resources, raw materials, goods or services may be found.  Generally nothing listed is free for the taking, except perhaps for vegitation, as most things are considered property which generally has owners.  Still, much of what may be listed is, at the very least, what is often called "farm gate", which means buying resources, goods, or services directly from the farm or resource harvestor, as well as related small, or "mom & pop" businesses.
 
+If a resource is marked as free, please respect property boundaries. Ask permission if necessary. Don't over harvest, don't hoard, leave some for others.
+
 Raw Foods:
 Marty's Fish Sales (Travers Bay): 50.656049 -96.483736
 Faith Apiaries (Honey in many forms): 50.313508 -96.710682
@@ -10,6 +12,7 @@ Windmill (Selkirk) Potatoes by bushel (50lb bags): 50.166423 -96.788958
 Steinbach (hwy 12 south) eggs: 49.415001 -96.691002
 Whiteshell Strawberry Farm: 49.881186 -95.907349
 Plow Share Intentional Community (Veggies etc; Beausejour): 50.017524 -96.433026
+Boonstra Farms Strawberries etc (Stonewall): 50.137792 -97.269682
 
 Processed Foods:
 Danny's Whole Hog BBQ & Smokehouse: 50.137563 -97.177286
@@ -20,3 +23,4 @@ Wood Mill (hwy 315; owner east side of hwy): 50.359941 -95.786732
 Soil / compost:
 Red Wriggler Worms (hwy 67): 50.138647 -97.025215
 Beausejour compost facility (not screened): 50.072168 -96.515612
+Community Garden Winnipeg, west perimeter: 49.872064 -97.325700
