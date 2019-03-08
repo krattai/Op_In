@@ -14,6 +14,21 @@ This section is for the discussion of parity economics within the farming sector
 
 The following links point to Parity principles:
 
+The Birth of Raw Material Economics
+http://www.normeconomics.com/birth.html
+
+History of the Parity Concept
+http://www.normeconomics.org/parity.html
+
+Physiocracy (although, unfortunately, DuPont was part of this)
+https://en.wikipedia.org/wiki/Physiocracy
+
+Five Minute Introduction to "The Nature Of Wealth"
+http://normbook.homestead.com/Raw-Materials-Economics.html
+
+THE NATURE OF WEALTH
+http://normbook.homestead.com/
+
 http://www.aaminc.org/newsletter/v8i2/v8i2p7.htm
 
 http://againstausterity.org/parity
