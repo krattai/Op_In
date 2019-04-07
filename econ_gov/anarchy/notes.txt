@@ -5,3 +5,12 @@ https://en.wikipedia.org/wiki/Anarchism
 
 Mark Passio: Natural Law Seminar - FULL version (9 hours)
 https://www.youtube.com/watch?v=dIEemKcy-4E
+
+
+NB: This likely should end up in crypto currency folder
+A simple blockchain in Javascript. For educational purposes only. 
+https://www.youtube.com/watch?v=zVqczFZr124
+https://www.youtube.com/watch?v=HneatE69814
+https://www.youtube.com/watch?v=fRV6cGXVQ4I
+https://www.youtube.com/watch?v=kWQ84S13-hw
+https://github.com/Savjee/SavjeeCoin
